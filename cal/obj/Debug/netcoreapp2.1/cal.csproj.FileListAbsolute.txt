@@ -1,0 +1,21 @@
+C:\Users\Riya Shree\source\repos\cal\cal\bin\Debug\netcoreapp2.1\cal.deps.json
+C:\Users\Riya Shree\source\repos\cal\cal\bin\Debug\netcoreapp2.1\cal.runtimeconfig.json
+C:\Users\Riya Shree\source\repos\cal\cal\bin\Debug\netcoreapp2.1\cal.runtimeconfig.dev.json
+C:\Users\Riya Shree\source\repos\cal\cal\bin\Debug\netcoreapp2.1\cal.dll
+C:\Users\Riya Shree\source\repos\cal\cal\bin\Debug\netcoreapp2.1\cal.pdb
+C:\Users\Riya Shree\source\repos\cal\cal\obj\Debug\netcoreapp2.1\cal.csproj.CoreCompileInputs.cache
+C:\Users\Riya Shree\source\repos\cal\cal\obj\Debug\netcoreapp2.1\cal.AssemblyInfoInputs.cache
+C:\Users\Riya Shree\source\repos\cal\cal\obj\Debug\netcoreapp2.1\cal.AssemblyInfo.cs
+C:\Users\Riya Shree\source\repos\cal\cal\obj\Debug\netcoreapp2.1\cal.dll
+C:\Users\Riya Shree\source\repos\cal\cal\obj\Debug\netcoreapp2.1\cal.pdb
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\bin\Debug\netcoreapp2.1\cal.deps.json
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\bin\Debug\netcoreapp2.1\cal.runtimeconfig.json
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\bin\Debug\netcoreapp2.1\cal.runtimeconfig.dev.json
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\bin\Debug\netcoreapp2.1\cal.dll
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\bin\Debug\netcoreapp2.1\cal.pdb
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\obj\Debug\netcoreapp2.1\cal.csprojAssemblyReference.cache
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\obj\Debug\netcoreapp2.1\cal.csproj.CoreCompileInputs.cache
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\obj\Debug\netcoreapp2.1\cal.AssemblyInfoInputs.cache
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\obj\Debug\netcoreapp2.1\cal.AssemblyInfo.cs
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\obj\Debug\netcoreapp2.1\cal.dll
+C:\Users\Riya Shree\source\repos\Calculator Completed\cal\obj\Debug\netcoreapp2.1\cal.pdb
